@@ -105,8 +105,6 @@ investment-brain/
 ## 📜 版本历史
 
 - **v2.0** (2026-03): 六大脑联网决策系统，初始发布
-- **v3.0**: 合并SOIC+Chokepoint+财务分析（移至new-investment-brain）
-- **v4.0**: 六大脑深度分析+11人委员会（仅在new-investment-brain）
 
 ---
 
